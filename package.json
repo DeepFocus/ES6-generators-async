@@ -1,0 +1,18 @@
+{
+  "name": "AsyncGens",
+  "version": "0.0.1",
+  "description": "Code samples for ES6 async pattern using generators.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anton Boichev",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^3.1.0",
+    "koa": "^0.12.2",
+    "koa-compose": "^2.3.0",
+    "request": "^2.45.0",
+    "thunkify": "^2.1.2"
+  }
+}
